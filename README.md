@@ -9,8 +9,8 @@ A list of technologies used within the project:
 * [React.js](https://es.reactjs.org/) : Version 18
 
 ### Screenshot
-![Screenshot](../src/assets/pkm1.png)
-![Image text](../src/assets/pkm0.png)
+![Screenshot](src/assets/pkm1.png)
+![Image text](src/assets/pkm0.png)
 ## Installation
 ***
 A little intro about the installation. 
